@@ -9,5 +9,6 @@
   "scripts": {
     "start": "wrangler dev",
     "deploy": "wrangler publish"
-  }
+  },
+  "license": "MIT"
 }
